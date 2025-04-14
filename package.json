@@ -1,0 +1,22 @@
+{
+  "name": "automation-beetrack-saas-igrowker",
+  "version": "1.0.0",
+  "description": "Here are all my automated tests with Playwright from my 2nd IT training program in Igrowker",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marianaluduena/automation-beetrack-saas-igrowker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marianaluduena/automation-beetrack-saas-igrowker/issues"
+  },
+  "homepage": "https://github.com/marianaluduena/automation-beetrack-saas-igrowker#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.14.1"
+  }
+}
