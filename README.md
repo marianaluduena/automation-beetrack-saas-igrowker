@@ -1,10 +1,10 @@
 # automation-beetrack-saas-igrowker
 
+Here is **all the documentation generated, and will be added all my automated tests** with **Playwright** from the **Beetrack** project builded during my 2nd IT training programm in **Igrowker**
+
 <div>
 <img src = https://github.com/user-attachments/assets/61a994c5-4355-456b-a4c4-6851722ce1e8 alt = "Vista Beetrack web" />
  </div>
-
-Here is **all the documentation generated, and will be added all my automated tests** with **Playwright** from the **Beetrack** project builded during my 2nd IT training programm in **Igrowker**
 
 ## Table of contents
 
@@ -26,7 +26,7 @@ Here is **all the documentation generated, and will be added all my automated te
 
 ### Test Cases
 
-- Check all the test cases I made with my team during the training:
+- Check all the test cases I made with my team during the training: **[Test Cases Sprint 1 to 4](https://docs.google.com/spreadsheets/d/1uykHCKK-A4JUwGGRW-Z5wjBGbivIeCpkqPwHloCJkEU/edit?usp=sharing)**
   
 - ⚠️ **New test cases will be added soon, this is a project in progress, although the training is over.**
 
