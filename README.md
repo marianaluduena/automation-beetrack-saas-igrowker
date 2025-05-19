@@ -1,8 +1,7 @@
 # automation-beetrack-saas-igrowker
 
 <div>
-<img src = https://github.com/user-attachments/assets/10d09196-2d36-4693-a13f-60f95d996e69
-alt = "Vista Beetrack" />
+<img src = https://github.com/user-attachments/assets/61a994c5-4355-456b-a4c4-6851722ce1e8 alt = "Vista Beetrack web" />
  </div>
 
 Here is **all the documentation generated, and will be added all my automated tests** with **Playwright** from the **Beetrack** project builded during my 2nd IT training programm in **Igrowker**
@@ -14,7 +13,7 @@ Here is **all the documentation generated, and will be added all my automated te
 - [Test Cases]()
 - [Bugs Reported]()
 - [Regression Tests Cases]()
-- [Stadistics]()
+- [Metrics]()
 
 ### Problem + User Stories Documentation:
 
@@ -23,14 +22,15 @@ Here is **all the documentation generated, and will be added all my automated te
 
 ### Test Plan
 
-- **[First Test Plan from 31/03 to 25/04](#)**
+- **[First Test Plan from 31/03 to 25/04](https://docs.google.com/spreadsheets/d/1d5EiiYvCODwzDfXZEHQzHU66Fl1i316l_bth41LMUEw/edit?usp=drive_link)**
 
 ### Test Cases
 
 - Check all the test cases I made with my team during the training:
--⚠️ **New test cases will be added soon, this is a project in progress, although the training is over.**
+  
+- ⚠️ **New test cases will be added soon, this is a project in progress, although the training is over.**
 
-### Bug Reported
+### Bugs Reported
 
 
 
@@ -38,5 +38,5 @@ Here is **all the documentation generated, and will be added all my automated te
 
 - Check all the regressions we made here: **[Regression Tests](https://docs.google.com/spreadsheets/d/1ix-ya-A7plz7JgMlWkkLlXU2pLpq68VtzrcNn01kD6Q/edit?usp=drive_link)**
 
-### Stadistics
+### Metrics
 
