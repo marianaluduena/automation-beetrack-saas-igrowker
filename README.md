@@ -6,7 +6,7 @@ Here is **all the documentation generated, and will be added all my automated te
 
 This time, I took on the role of **QA Lead for my team**, drawing on my experience from the previous training to provide guidance  I encouraged my fellow QAs to **share their ideas and opinions, and we made decisions collaboratively.**
 
-The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that we all decided we want to continue improving Beetrack, even when this training is over!**
+The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that we all decided we want to continue improving Beetrack, even now when this training is already over!**
 
 <div align = "center">
 <img src = https://github.com/user-attachments/assets/61a994c5-4355-456b-a4c4-6851722ce1e8 alt = "Vista Beetrack web" width= "700" />
@@ -63,8 +63,11 @@ The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that 
 ### Achievements during this Project 🏆
 
 - **Leadership skills** learned, **ability to communicate empathetically and engage in active listening.**
+  
 - **Detected issues in the project application's barcode recognition.**
+  
 - Demonstrated **adaptability to work in an agile environment.**
+  
 - **[Certified Agile Digital Product Practicioner Certifcate earned](https://drive.google.com/file/d/1jNR8FJl5U1WbpEpg0Ipj6YqiOFVNeUAD/view?usp=drive_link)** 
 
 
