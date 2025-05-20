@@ -45,7 +45,7 @@ The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that 
 
 ### Bugs Reported 🐞
 
-- **[Bugs Frontend]()**
+- **[Bugs Frontend](https://drive.google.com/drive/folders/1MJfPzZqwfERjs0NoZx1tnycIyoXCBDRk?usp=drive_link)**
   
 - **[Bugs Backend](https://drive.google.com/drive/folders/1VUIhk2o9TsmmPAwinAWWBmX5ngDQzlmY?usp=drive_link)**
 
