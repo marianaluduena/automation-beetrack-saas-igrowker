@@ -8,7 +8,7 @@ This time, I took on the role of **QA Lead for my team**, drawing on my experien
 
 The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that we all decided we want to continue improving Beetrack, even when this training is over!**
 
-<div>
+<div align = "center">
 <img src = https://github.com/user-attachments/assets/61a994c5-4355-456b-a4c4-6851722ce1e8 alt = "Vista Beetrack web" width= "700" />
  </div>
 
