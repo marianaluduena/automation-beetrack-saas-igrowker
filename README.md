@@ -8,27 +8,25 @@ Here is **all the documentation generated, and will be added all my automated te
 
 ## Table of contents
 
-- [Problem + User Stories Documentation]()
-- [Test Plan]()
-- [Test Cases]()
-- [Bugs Reported]()
-- [Regression Tests Cases]()
-- [Metrics]()
-- [Achievements during this Project]()
+- [Problem + User Stories Documentation](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#problem--user-stories-documentation)
+- [Test Plan](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#test-plan)
+- [Test Cases](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#test-cases)
+- [Bugs Reported](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#bugs-reported)
+- [Regression Tests Cases](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#regression-tests)
+- [Metrics](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#metrics)
+- [Achievements during this Project](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#achievements-during-this-project-)
 
-_______________________________________________________
 
 ### Problem + User Stories Documentation:
 
 - **[Documentation](https://drive.google.com/file/d/1OAXpLSSD0jjHUW0n-xeV-kHk1k3ziOWR/view?usp=drive_link)**
 
-_______________________________________________________
 
 ### Test Plan
 
 - **[First Test Plan from 31/03 to 25/04](https://docs.google.com/spreadsheets/d/1d5EiiYvCODwzDfXZEHQzHU66Fl1i316l_bth41LMUEw/edit?usp=drive_link)**
 
-_______________________________________________________
+
 
 ### Test Cases
 
@@ -38,17 +36,15 @@ _______________________________________________________
 
 ### Bugs Reported
 
-_______________________________________________________
+
 
 ### Regression Tests
 
 - Check all the regressions we made here: **[Regression Tests](https://docs.google.com/spreadsheets/d/1ix-ya-A7plz7JgMlWkkLlXU2pLpq68VtzrcNn01kD6Q/edit?usp=drive_link)**
 
-_______________________________________________________
 
 ### Metrics
 
-_______________________________________________________
 
 ### Achievements during this Project 🏆
 
