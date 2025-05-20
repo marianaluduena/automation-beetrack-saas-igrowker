@@ -9,7 +9,7 @@ This time, I took on the role of **QA Lead for my team**, drawing on my experien
 The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that we all decided we want to continue improving Beetrack, even now when this training is already over!**
 
 <div align = "center">
-<img src = https://github.com/user-attachments/assets/61a994c5-4355-456b-a4c4-6851722ce1e8 alt = "Vista Beetrack web" width= "700" />
+<img src = https://github.com/user-attachments/assets/61a994c5-4355-456b-a4c4-6851722ce1e8 alt = "Beetrack application web version view" width= "700" />
  </div>
 
 ## Table of contents 📖
@@ -37,7 +37,7 @@ The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that 
 
 ### Test Cases 🧪
 
-- Check all the test cases I made with my team during the training: **[Test Cases Sprint 1 to 4](https://docs.google.com/spreadsheets/d/1uykHCKK-A4JUwGGRW-Z5wjBGbivIeCpkqPwHloCJkEU/edit?usp=sharing)**
+- Check all the test cases I wrote with my team during the training: **[Test Cases Sprint 1 to 4](https://docs.google.com/spreadsheets/d/1uykHCKK-A4JUwGGRW-Z5wjBGbivIeCpkqPwHloCJkEU/edit?usp=sharing)**
   
 - ⚠️ **New test cases will be added soon, this is a project in progress, although the training is over.**
 
