@@ -14,15 +14,21 @@ Here is **all the documentation generated, and will be added all my automated te
 - [Bugs Reported]()
 - [Regression Tests Cases]()
 - [Metrics]()
+- [Achievements during this Project]()
+
+_______________________________________________________
 
 ### Problem + User Stories Documentation:
 
 - **[Documentation](https://drive.google.com/file/d/1OAXpLSSD0jjHUW0n-xeV-kHk1k3ziOWR/view?usp=drive_link)**
 
+_______________________________________________________
 
 ### Test Plan
 
 - **[First Test Plan from 31/03 to 25/04](https://docs.google.com/spreadsheets/d/1d5EiiYvCODwzDfXZEHQzHU66Fl1i316l_bth41LMUEw/edit?usp=drive_link)**
+
+_______________________________________________________
 
 ### Test Cases
 
@@ -32,11 +38,25 @@ Here is **all the documentation generated, and will be added all my automated te
 
 ### Bugs Reported
 
-
+_______________________________________________________
 
 ### Regression Tests
 
 - Check all the regressions we made here: **[Regression Tests](https://docs.google.com/spreadsheets/d/1ix-ya-A7plz7JgMlWkkLlXU2pLpq68VtzrcNn01kD6Q/edit?usp=drive_link)**
 
+_______________________________________________________
+
 ### Metrics
+
+_______________________________________________________
+
+### Achievements during this Project 🏆
+
+- **Leadership skills** learned, **ability to communicate empathetically and engage in active listening.**
+- **Detected issues in the project application's barcode recognition.**
+- **Demonstrated adaptability to work in an agile environment.**
+- **Certified Agile Digital Product Practicioner Certifcate** earned.
+ 
+- [Certificate](https://drive.google.com/file/d/1jNR8FJl5U1WbpEpg0Ipj6YqiOFVNeUAD/view?usp=drive_link)
+
 
