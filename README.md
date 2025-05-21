@@ -21,6 +21,8 @@ The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that 
 - [Regression Tests Cases](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#regression-tests)
 - [Metrics](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#metrics)
 - [Achievements during this Project](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#achievements-during-this-project-)
+- [Personal Feedback received]()
+- [Beetrack display + Demo]()
 
 
 ### Problem + User Stories Documentation 💡
@@ -60,6 +62,7 @@ The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that 
 ### Metrics 📈
 
 ----------------------------------------------
+
 ### Achievements during this Project 🏆
 
 - **Leadership skills** learned, **ability to communicate empathetically and engage in active listening.**
@@ -68,6 +71,16 @@ The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that 
   
 - Demonstrated **adaptability to work in an agile environment.**
   
-- **[Certified Agile Digital Product Practicioner Certifcate earned](https://drive.google.com/file/d/1jNR8FJl5U1WbpEpg0Ipj6YqiOFVNeUAD/view?usp=drive_link)** 
+- **[Certified Agile Digital Product Practicioner Certifcate earned](https://drive.google.com/file/d/1jNR8FJl5U1WbpEpg0Ipj6YqiOFVNeUAD/view?usp=drive_link)**
 
+----------------------------------------------
 
+### Personal Feedback received 🗣️
+
+- **[Feedback](https://drive.google.com/file/d/1gS9lFUJl615KAwAKK3c9j1gmat37Y_5A/view?usp=sharing)**
+
+----------------------------------------------
+
+### Beetrack display + Demo 📺
+
+[![Watch the video](https://img.youtube.com/vi/LSPOtkBYW_s/maxresdefault.jpg)](https://youtu.be/LSPOtkBYW_s)
