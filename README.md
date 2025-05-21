@@ -44,16 +44,19 @@ The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that 
 
 - **Postman**
   
+- **Git**
+  
 - **ChatGPT**
   
 - **Playwright (coming soon)**
+  
 ----------------------------------------------
 
 ### Test Cases 🧪
 
  Check all the test cases I wrote with my team during the training:
   
-- **[Test Cases Fontend](https://docs.google.com/spreadsheets/d/1uykHCKK-A4JUwGGRW-Z5wjBGbivIeCpkqPwHloCJkEU/edit?usp=sharing)**
+- **[Test Cases Frontend](https://docs.google.com/spreadsheets/d/1uykHCKK-A4JUwGGRW-Z5wjBGbivIeCpkqPwHloCJkEU/edit?usp=sharing)**
   
 - **[Test Cases Backend](https://docs.google.com/spreadsheets/d/1Kwpc21lkXUPOiRNzhk2rsUYMVguOY7G-ghyEqR2f58k/edit?usp=drive_link)**
   
