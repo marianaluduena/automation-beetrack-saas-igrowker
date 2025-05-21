@@ -1,6 +1,9 @@
 # automation-beetrack-saas-igrowker
 
-Here is **all the documentation generated, and will be added all my automated tests** with **Playwright** from the **Beetrack** project builded during my 2nd IT training programm in **Igrowker**
+- Here is **all the documentation generated, and will be added all my automated tests** with **Playwright** from the **Beetrack** project builded during my 2nd IT training programm in **Igrowker**.
+  
+- ❗ Please note that this project and documentation is in **Spanish**, but **I translated the final quality report to English**.
+
 
 
 ## Table of contents 📖
