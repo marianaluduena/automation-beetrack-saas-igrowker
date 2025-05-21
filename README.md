@@ -8,7 +8,7 @@ Here is **all the documentation generated, and will be added all my automated te
 - [Summary](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#summary-)
 - [Problem + User Stories Documentation](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#problem--user-stories-documentation-)
 - [Test Plan](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#test-plan-)
-- [Tools](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#tools)
+- [Tools](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#tools-%EF%B8%8F)
 - [Test Cases](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#test-cases-)
 - [Bugs Reported](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#bugs-reported-)
 - [Regression Tests Cases](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#regression-tests-%EF%B8%8F)
@@ -77,9 +77,11 @@ The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that 
 
 ### Metrics 📈
 
+- **[Quality Report](#)**
+  
 - **[Test Coverage Sprint 1 to 4 chart](https://drive.google.com/file/d/1sQzAd396gyBbmSJP1nXHOQitWnM7AwC7/view?usp=drive_link)**
   
-- **[Test Cases pass / failed Sprint 1 to 4 chart](https://drive.google.com/file/d/1sQzAd396gyBbmSJP1nXHOQitWnM7AwC7/view?usp=drive_link)**
+- **[Test Cases pass / failed Sprint 1 to 4 chart](https://drive.google.com/file/d/19UCuZWzUrYZ9Rt3eI9RVveMcQ9NI6lYX/view?usp=sharing)**
 ----------------------------------------------
 
 ### Achievements during this Project 🏆
