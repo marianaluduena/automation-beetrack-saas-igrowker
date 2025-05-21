@@ -5,13 +5,13 @@ Here is **all the documentation generated, and will be added all my automated te
 
 ## Table of contents 📖
 
-- [Summary](https://github.com/marianaluduena/automation-beetrack-saas-igrowker?tab=readme-ov-file#summary-)
-- [Problem + User Stories Documentation](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#problem--user-stories-documentation)
-- [Test Plan](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#test-plan)
-- [Test Cases](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#test-cases)
-- [Bugs Reported](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#bugs-reported)
-- [Regression Tests Cases](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#regression-tests)
-- [Metrics](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#metrics)
+- [Summary](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#summary-)
+- [Problem + User Stories Documentation](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#problem--user-stories-documentation-)
+- [Test Plan](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#test-plan-)
+- [Test Cases](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#test-cases-)
+- [Bugs Reported](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#bugs-reported-)
+- [Regression Tests Cases](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#regression-tests-%EF%B8%8F)
+- [Metrics](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#metrics-)
 - [Achievements during this Project](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#achievements-during-this-project-)
 - [Personal Feedback received](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#personal-feedback-received-%EF%B8%8F)
 - [Beetrack display + Demo](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#beetrack-display--demo-)
@@ -42,7 +42,11 @@ The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that 
 
 ### Test Cases 🧪
 
-- Check all the test cases I wrote with my team during the training: **[Test Cases Sprint 1 to 4](https://docs.google.com/spreadsheets/d/1uykHCKK-A4JUwGGRW-Z5wjBGbivIeCpkqPwHloCJkEU/edit?usp=sharing)**
+ Check all the test cases I wrote with my team during the training:
+  
+- **[Test Cases Fontend](https://docs.google.com/spreadsheets/d/1uykHCKK-A4JUwGGRW-Z5wjBGbivIeCpkqPwHloCJkEU/edit?usp=sharing)**
+  
+- **[Test Cases Backend](https://docs.google.com/spreadsheets/d/1Kwpc21lkXUPOiRNzhk2rsUYMVguOY7G-ghyEqR2f58k/edit?usp=drive_link)**
   
 - ⚠️ **New test cases will be added soon, this is a project in progress, although the training is over.**
 
