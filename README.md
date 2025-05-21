@@ -2,18 +2,10 @@
 
 Here is **all the documentation generated, and will be added all my automated tests** with **Playwright** from the **Beetrack** project builded during my 2nd IT training programm in **Igrowker**
 
-## Summary: 📚
-
-This time, I took on the role of **QA Lead for my team**, drawing on my experience from the previous training to provide guidance  I encouraged my fellow QAs to **share their ideas and opinions, and we made decisions collaboratively.**
-
-The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that we all decided we want to continue improving Beetrack, even now when this training is already over!**
-
-<div align = "center">
-<img src = https://github.com/user-attachments/assets/61a994c5-4355-456b-a4c4-6851722ce1e8 alt = "Beetrack application web version view" width= "700" />
- </div>
 
 ## Table of contents 📖
 
+- [Summary](https://github.com/marianaluduena/automation-beetrack-saas-igrowker?tab=readme-ov-file#summary-)
 - [Problem + User Stories Documentation](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#problem--user-stories-documentation)
 - [Test Plan](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#test-plan)
 - [Test Cases](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#test-cases)
@@ -23,6 +15,17 @@ The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that 
 - [Achievements during this Project](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#achievements-during-this-project-)
 - [Personal Feedback received](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#personal-feedback-received-%EF%B8%8F)
 - [Beetrack display + Demo](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#beetrack-display--demo-)
+
+
+## Summary: 📚
+
+This time, I took on the role of **QA Lead for my team**, drawing on my experience from the previous training to provide guidance  I encouraged my fellow QAs to **share their ideas and opinions, and we made decisions collaboratively.**
+
+The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that we all decided we want to continue improving Beetrack, even now when this training is already over!**
+
+<div align = "center">
+<img src = https://github.com/user-attachments/assets/61a994c5-4355-456b-a4c4-6851722ce1e8 alt = "Beetrack application web version view" width= "700" />
+ </div>
 
 
 ### Problem + User Stories Documentation 💡
