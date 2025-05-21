@@ -85,4 +85,3 @@ The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that 
 
 [![Watch the video](https://img.youtube.com/vi/LSPOtkBYW_s/maxresdefault.jpg)](https://youtu.be/LSPOtkBYW_s)
 
-[Watch this video on YouTube](https://youtu.be/LSPOtkBYW_s)
