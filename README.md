@@ -21,8 +21,8 @@ The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that 
 - [Regression Tests Cases](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#regression-tests)
 - [Metrics](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#metrics)
 - [Achievements during this Project](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#achievements-during-this-project-)
-- [Personal Feedback received]()
-- [Beetrack display + Demo]()
+- [Personal Feedback received](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#personal-feedback-received-%EF%B8%8F)
+- [Beetrack display + Demo](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#beetrack-display--demo-)
 
 
 ### Problem + User Stories Documentation 💡
@@ -84,3 +84,5 @@ The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that 
 ### Beetrack display + Demo 📺
 
 [![Watch the video](https://img.youtube.com/vi/LSPOtkBYW_s/maxresdefault.jpg)](https://youtu.be/LSPOtkBYW_s)
+
+[Watch this video on YouTube](https://youtu.be/LSPOtkBYW_s)
