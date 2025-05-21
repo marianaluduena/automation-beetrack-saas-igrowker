@@ -8,7 +8,7 @@ Here is **all the documentation generated, and will be added all my automated te
 - [Summary](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#summary-)
 - [Problem + User Stories Documentation](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#problem--user-stories-documentation-)
 - [Test Plan](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#test-plan-)
-- [Tools]()
+- [Tools](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#tools)
 - [Test Cases](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#test-cases-)
 - [Bugs Reported](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#bugs-reported-)
 - [Regression Tests Cases](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#regression-tests-%EF%B8%8F)
@@ -40,7 +40,7 @@ The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that 
 - **[First Test Plan from 31/03 to 25/04](https://docs.google.com/spreadsheets/d/1d5EiiYvCODwzDfXZEHQzHU66Fl1i316l_bth41LMUEw/edit?usp=drive_link)**
 
 ----------------------------------------------
-### Tools 
+### Tools 🛠️
 
 - **Postman**
   
@@ -77,6 +77,9 @@ The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that 
 
 ### Metrics 📈
 
+- **[Test Coverage Sprint 1 to 4 chart](https://drive.google.com/file/d/1sQzAd396gyBbmSJP1nXHOQitWnM7AwC7/view?usp=drive_link)**
+  
+- **[Test Cases pass / failed Sprint 1 to 4 chart](https://drive.google.com/file/d/1sQzAd396gyBbmSJP1nXHOQitWnM7AwC7/view?usp=drive_link)**
 ----------------------------------------------
 
 ### Achievements during this Project 🏆
