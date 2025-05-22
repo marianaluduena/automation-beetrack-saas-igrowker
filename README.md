@@ -94,7 +94,7 @@ The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that 
 
 ### Metrics 📈
 
-- **[Quality Report](#)**
+- **[Quality Report](https://drive.google.com/file/d/1vxMWmNN5GafDN13Bs_KTLdqIsXtex2yv/view?usp=drive_link)**
   
 - **[Test Coverage Sprint 1 to 4 chart](https://drive.google.com/file/d/1sQzAd396gyBbmSJP1nXHOQitWnM7AwC7/view?usp=drive_link)**
   
