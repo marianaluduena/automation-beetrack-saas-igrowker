@@ -25,6 +25,13 @@
 
 This time, I took on the role of **QA Lead for my team**, drawing on my experience from the previous training to provide guidance  I encouraged my fellow QAs to **share their ideas and opinions, and we made decisions collaboratively.**
 
+During this project I had:
+
+- **Weekly meetings with the whole team.**
+
+- **Regular meetings with my QA team in Discord.**
+
+
 The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that we all decided we want to continue improving Beetrack, even now when this training is already over!**
 
 <div align = "center">
@@ -51,7 +58,11 @@ The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that 
   
 - **ChatGPT**
   
+- **Screen to Gif (to document evidence)**
+  
 - **Playwright (coming soon)**
+  
+- **Notion as a Kanban board (during the training)**
   
 ----------------------------------------------
 
