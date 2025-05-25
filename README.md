@@ -52,7 +52,7 @@ The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that 
 ----------------------------------------------
 ### Tools 🛠️
 
- **Playwright**
+- **Playwright**
 
 - **Postman**
   
