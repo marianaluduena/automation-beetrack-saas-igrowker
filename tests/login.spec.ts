@@ -11,9 +11,6 @@ login = new Login(page);
   await expect(page).toHaveTitle("Beetrack");
 
   await login.loginBtn.click();
-
-  await page.waitForTimeout(5000);
+ 
 });
-
-
 
