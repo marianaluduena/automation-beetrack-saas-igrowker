@@ -52,15 +52,15 @@ The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that 
 ----------------------------------------------
 ### Tools 🛠️
 
+ **Playwright**
+
 - **Postman**
   
 - **Git**
   
 - **ChatGPT**
   
-- **Screen to Gif (to document evidence)**
-  
-- **Playwright (coming soon)**
+- **Screen to Gif and Loom (to document evidence)**
   
 - **Notion as a Kanban board (during the training)**
   
