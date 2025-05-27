@@ -12,11 +12,9 @@ register = new Register(page);
   await page.goto("http://localhost:5173/register");
   expect(page.url()).toBe("http://localhost:5173/register");
 
-  // Fill the email field
+ // Fill the email field
 
-await register.emailInput.fill("test@fake.com");
-await register.continueBtn.click();
-await expect(register.messageAlert).toBeVisible();
+await register.fillRegister();
 
 await page.waitForTimeout(5000);
  

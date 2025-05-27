@@ -1,4 +1,4 @@
-import{Page, Locator} from "@playwright/test";
+import{Page, Locator, expect} from "@playwright/test";
 
 export default class Register {
 
@@ -14,5 +14,16 @@ export default class Register {
         this.emailInput = page.getByRole('textbox', { name: 'nombre@dominio.com' })
         this.continueBtn = page.getByRole('button', { name: 'Continuar' })
         this.messageAlert = page.getByText("Error comprobando el email. Por favor intentelo de nuevo");
+    }
+
+    async fillRegister(){
+
+        // Fill the email field
+        
+        await this.emailInput.fill("test@fake.com");
+        await this.continueBtn.click();
+        await expect(this.messageAlert).toBeVisible();
+        
+
     }
 }
