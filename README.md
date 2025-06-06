@@ -19,7 +19,7 @@
 - [Achievements during this Project](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#achievements-during-this-project-)
 - [Personal Feedback received](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#personal-feedback-received-%EF%B8%8F)
 - [Beetrack display + Demo](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#beetrack-display--demo-)
-- [Certificate]()
+
 
 
 ## Summary: 📚
@@ -126,8 +126,3 @@ The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that 
 [![Watch the video](https://img.youtube.com/vi/LSPOtkBYW_s/maxresdefault.jpg)](https://youtu.be/LSPOtkBYW_s)
 
 
-----------------------------------------------
-
-### Certificate 👩‍🎓
-
-- **[Certificate](https://drive.google.com/file/d/1jNR8FJl5U1WbpEpg0Ipj6YqiOFVNeUAD/view?usp=drive_link)**
