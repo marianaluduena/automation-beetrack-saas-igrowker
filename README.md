@@ -120,11 +120,12 @@ The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that 
 
 ----------------------------------------------
 
-- **[Certificate](https://drive.google.com/file/d/1jNR8FJl5U1WbpEpg0Ipj6YqiOFVNeUAD/view?usp=drive_link)**
-
-----------------------------------------------
 
 ### Beetrack display + Demo 📺
 
 [![Watch the video](https://img.youtube.com/vi/LSPOtkBYW_s/maxresdefault.jpg)](https://youtu.be/LSPOtkBYW_s)
 
+
+----------------------------------------------
+
+- **[Certificate](https://drive.google.com/file/d/1jNR8FJl5U1WbpEpg0Ipj6YqiOFVNeUAD/view?usp=drive_link)**
