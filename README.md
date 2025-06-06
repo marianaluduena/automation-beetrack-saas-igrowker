@@ -128,4 +128,6 @@ The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that 
 
 ----------------------------------------------
 
+### Certificate 👩‍🎓
+
 - **[Certificate](https://drive.google.com/file/d/1jNR8FJl5U1WbpEpg0Ipj6YqiOFVNeUAD/view?usp=drive_link)**
