@@ -1,4 +1,4 @@
-import{Page, Locator} from "@playwright/test";
+import { Page, Locator } from "@playwright/test";
 
 export default class Login {
 
@@ -8,7 +8,7 @@ export default class Login {
     readonly loginBtn: Locator;
 
 
-    constructor(page: Page){
+    constructor(page: Page) {
 
         this.page = page;
         this.email = page.getByRole('textbox', { name: 'Dirección de email' })
@@ -16,7 +16,12 @@ export default class Login {
         this.loginBtn = page.getByRole('button', { name: 'Iniciar sesión' });
     }
 
-    async fillLoginForm(){
+    async goToLoginPage() {
+
+        await this.page.goto("http://localhost:5173/login");
+    }
+
+    async fillLoginForm() {
 
         await this.email.fill("marianabelenluduena@gmail.com");
         await this.password.fill("illusion-2");

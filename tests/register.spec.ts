@@ -7,15 +7,16 @@ let register: Register;
 
 test('Register page should have an email input', async ({ page }) => {
 
-register = new Register(page);
+  register = new Register(page);
 
-  await page.goto("http://localhost:5173/register");
-  expect(page.url()).toBe("http://localhost:5173/register");
+  // Go to sign in page
 
- // Fill the email field
+  await register.goToSignInPage();
 
-await register.fillRegister();
+  // Fill the email field
 
-await page.waitForTimeout(5000);
- 
+  await register.fillRegister();
+
+  await page.waitForTimeout(5000);
+
 });

@@ -1,4 +1,4 @@
-import{Page, Locator, expect} from "@playwright/test";
+import { Page, Locator, expect } from "@playwright/test";
 
 export default class Register {
 
@@ -8,7 +8,7 @@ export default class Register {
     readonly continueBtn: Locator;
     readonly messageAlert: Locator;
 
-    constructor(page: Page){
+    constructor(page: Page) {
 
         this.page = page;
         this.emailInput = page.getByRole('textbox', { name: 'nombre@dominio.com' })
@@ -16,14 +16,21 @@ export default class Register {
         this.messageAlert = page.getByText("Error comprobando el email. Por favor intentelo de nuevo");
     }
 
-    async fillRegister(){
+    // Go to Sign in page
+
+    async goToSignInPage() {
+
+        await this.page.goto("http://localhost:5173/register");
+    }
+
+    async fillRegister() {
 
         // Fill the email field
-        
+
         await this.emailInput.fill("test@fake.com");
         await this.continueBtn.click();
         await expect(this.messageAlert).toBeVisible();
-        
+
 
     }
 }
