@@ -18,7 +18,6 @@
 - [Metrics](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#metrics-)
 - [Achievements during this Project](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#achievements-during-this-project-)
 - [Personal Feedback received](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#personal-feedback-received-%EF%B8%8F)
-- [Beetrack display + Demo](https://github.com/marianaluduena/automation-beetrack-saas-igrowker/blob/main/README.md#beetrack-display--demo-)
 
 
 
@@ -118,11 +117,5 @@ The **relationship** with the whole team (Devs, PM, UX, etc) **was so good that 
 
 - **[Feedback](https://drive.google.com/file/d/1gS9lFUJl615KAwAKK3c9j1gmat37Y_5A/view?usp=sharing)**
 
-----------------------------------------------
-
-
-### Beetrack display + Demo 📺
-
-[![Watch the video](https://img.youtube.com/vi/LSPOtkBYW_s/maxresdefault.jpg)](https://youtu.be/LSPOtkBYW_s)
 
 
